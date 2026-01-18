@@ -1,5 +1,7 @@
 # Pizza Shop Sales Dashboard (Excel)
 
+Below is a screenshot of the interactive dashboard created in this project.
+
 This project presents an interactive sales dashboard for a pizza shop, built using Microsoft Excel to support data-driven decision-making for business stakeholders.
 
 The dashboard provides a clear view of key performance indicators (KPIs), including total sales, total orders, total quantity sold, and average order value. It helps stakeholders quickly assess overall business performance without relying on manual analysis of raw data.
