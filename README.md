@@ -24,4 +24,4 @@ Sales trends are analyzed over time using a **line chart** for monthly sales, wh
 ## Data Files
 The dataset is included in both **Excel (.xlsx)** and **CSV (.csv)** formats.
 
- ![Image Alt]([image_url](https://github.com/MohammadHammoudeh14/Pizza-Shop-Dashboard-EXCEL/blob/0ed036d702abeae91677951a44783d0704712573/Pizza%20shop%20dashboard.png))
+ ![Image Alt](https://github.com/MohammadHammoudeh14/Pizza-Shop-Dashboard-EXCEL/blob/0ed036d702abeae91677951a44783d0704712573/Pizza%20shop%20dashboard.png)
