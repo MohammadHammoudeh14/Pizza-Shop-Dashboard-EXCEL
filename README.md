@@ -19,19 +19,19 @@ Sales trends are analyzed over time using a **line chart** for monthly sales, wh
 - How do sales trends change over time by month?  
 - What are the peak sales hours during the day?  
 - How does sales performance change by category, size, or month?
-
-## Tools & Visualizations Used
-- Microsoft Excel  
-- Pivot Tables  
-- **Charts:** Pie charts, Line charts, Bar charts  
-- Interactive Dashboard Design with slicers/filters  
-
+- 
 ## Key Insights Delivered
 - Overall sales and order performance  
 - Top and bottom performing pizzas  
 - Revenue contribution by category and size  
 - Monthly sales trends  
 - Peak sales hours during the day  
+
+## Tools & Visualizations Used
+- Microsoft Excel  
+- Pivot Tables  
+- **Charts:** Pie charts, Line charts, Bar charts  
+- Interactive Dashboard Design with slicers/filters  
 
 ## Data Files
 The dataset is included in both **Excel (.xlsx)** and **CSV (.csv)** formats.
