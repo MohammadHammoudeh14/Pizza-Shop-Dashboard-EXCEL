@@ -10,6 +10,16 @@ By highlighting the top and bottom 5 pizzas, the dashboard identifies best- and 
 
 Sales trends are analyzed over time using a **line chart** for monthly sales, while a **bar chart** shows sales performance by hour of the day. Interactive filters for category, size, and month allow users to explore the data dynamically and answer specific business questions with ease.
 
+## Business Questions Answered
+- When are the peak sales hours?  
+- Which pizzas should be promoted?  
+- Which pizzas should be discontinued?  
+- How does revenue compare by pizza size and category?  
+- When should additional staff be scheduled?  
+- How do sales trends change over time by month?  
+- What are the peak sales hours during the day?  
+- How does sales performance change by category, size, or month?
+
 ## Tools & Visualizations Used
 - Microsoft Excel  
 - Pivot Tables  
