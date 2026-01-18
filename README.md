@@ -19,7 +19,7 @@ Sales trends are analyzed over time using a **line chart** for monthly sales, wh
 - How do sales trends change over time by month?  
 - What are the peak sales hours during the day?  
 - How does sales performance change by category, size, or month?
-- 
+
 ## Key Insights Delivered
 - Overall sales and order performance  
 - Top and bottom performing pizzas  
