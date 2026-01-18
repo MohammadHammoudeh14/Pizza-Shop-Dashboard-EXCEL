@@ -23,3 +23,5 @@ Sales trends are analyzed over time using a **line chart** for monthly sales, wh
 
 ## Data Files
 The dataset is included in both **Excel (.xlsx)** and **CSV (.csv)** formats.
+
+ ![Image Alt](image_url)
